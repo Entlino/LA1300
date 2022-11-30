@@ -1,8 +1,8 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-✍️ Ihr Gruppenname und Ihre Nachnamen
+
+Waffel - Aeschlimann, Bielski, Bürgi, Bashiri
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,14 +14,23 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Unser Programm wird ein Geografie rätsel bei welchem man Hauptstädte, Flaggen, sowie Kontinent erraten kann.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1  |                 |      | Als ein Benutzer möchte ich das man die Hauptstädte der einzelnen Länder erraten kann |
+| 2  |                 |      | Als ein Benutzer möchte ich das man die Länder an ihrem Umriss erraten kann |
+| 3  |                 |      | Als ein Benutzer möchte ich das man die Flaggen den jeweiligen Ländern zuordnen kann |
+| 4  |                 |      | Als ein Beuntzer möchte ich das man zwischen den einzelen Rätsel auswählen kann |
+| 5  |                 |      |                                    |
+| 6  |                 |      |                                    |
+| 7  |                 |      |                                    |
+| 8  |                 |      |                                    |
+| 9  |                 |      |                                    |
+| 10  |                 |      |                                    |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -42,8 +51,10 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |8.12.2022|Shahir & Christian|Flaggenquiz|10h|
+| 2.A  |8.12.2022|Kamil & Marco|Hauptstädtequiz|10h|
+| 3.A  |15.12.2022| Kamil & Marco| Kontinentquiz| 5h|
+| 4.A  |15.12.2022| Christian & Shahir| Auswahl der einzelnen Quizes
 
 Total: 
 
@@ -53,7 +64,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt eins ausgibig zu Programmieren da man mehere besser in der Gruppe aufteilen kann.
 
 ## 4 Realisieren
 

@@ -65,10 +65,10 @@ Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, s
 | 2.C | ----- | --------- | Eingabe von User mit Eingabebox vergleichen | 45min  |
 | ---- | ----- | --------- | ------------ | ------------- |
 | ---- | ----- | --------- | ------------ | ------------- |
-
-| 2.A  |8.12.2022|Kamil |Auswahl|1h|
+| 2.A  |8.12.2022|Kamil |Auswahl|1h| 
 | 3.A  |15.12.2022| Kamil | Erstellt selber fragen| 1h|
 | 4.A  |15.12.2022| Christian & Shahir| Auswahl der einzelnen Quizes | 1h | 
+die drei unteren paketen werden umgeschrieben
 
 Total: 
 

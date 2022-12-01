@@ -51,10 +51,10 @@ Unser Programm wird ein Geografie rätsel bei welchem man Hauptstädte, Flaggen,
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |8.12.2022|Shahir & Christian|Flaggenquiz|10h|
-| 2.A  |8.12.2022|Kamil & Marco|Hauptstädtequiz|10h|
-| 3.A  |15.12.2022| Kamil & Marco| Kontinentquiz| 5h|
-| 4.A  |15.12.2022| Christian & Shahir| Auswahl der einzelnen Quizes
+| 1.A  |8.12.2022|Shahir & Christian|Startprogramm|1h|
+| 2.A  |8.12.2022|Kamil & Marco|Auswahl|1h|
+| 3.A  |15.12.2022| Kamil & Marco| Erstellt selber fragen| 1h|
+| 4.A  |15.12.2022| Christian & Shahir| Auswahl der einzelnen Quizes | 1h | 
 
 Total: 
 

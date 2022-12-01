@@ -14,19 +14,19 @@ Waffel - Aeschlimann, Bielski, Bürgi, Bashiri
 
 ### 1.1 Ihr Projekt
 
-Unser Programm wird ein Geografie rätsel bei welchem man Hauptstädte, Flaggen, sowie Kontinent erraten kann.
+Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, sowie Kontinent erraten kann.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1  |                 |      | Als ein Benutzer möchte ich das man die Hauptstädte der einzelnen Länder erraten kann |
-| 2  |                 |      | Als ein Benutzer möchte ich das man die Länder an ihrem Umriss erraten kann |
-| 3  |                 |      | Als ein Benutzer möchte ich das man die Flaggen den jeweiligen Ländern zuordnen kann |
-| 4  |                 |      | Als ein Beuntzer möchte ich das man zwischen den einzelen Rätsel auswählen kann |
-| 5  |                 |      |                                    |
-| 6  |                 |      |                                    |
-| 7  |                 |      |                                    |
+| 1  |                 |Funktional| Als ein Benutzer möchte ich das man die Hauptstädte der einzelnen Länder erraten kann |
+| 2  |                 |Funktional| Als ein Benutzer möchte ich das man die Länder an ihrem Umriss erraten kann |
+| 3  |                 |Funktional| Als ein Benutzer möchte ich das man die Flaggen den jeweiligen Ländern zuordnen kann |
+| 4  |                 |Funktional| Als ein Beuntzer möchte ich das man zwischen den einzelen Rätsel auswählen kann |
+| 5  |                 |      |Als ein benutzer möchte ich, dass man meinen Highscore von Antworten ohne Fehler sehen kann, damit ich mich mit anderen Benutzer Vergleichen kann.|
+| 6  |                 |      |Als ein Benutzer möchte ich, dass ich ein Timer sehe, damit ich weiss wieviel Zeit ich für die Fragen gebraucht habe|
+| 7  |                 |      |Als ein Benutzer möchte ich mehrere Schwierigkeitsmodi haben, damit damit ich ein besseres Spiel-Ecperience habe|
 | 8  |                 |      |                                    |
 | 9  |                 |      |                                    |
 | 10  |                 |      |                                    |
@@ -40,6 +40,12 @@ Unser Programm wird ein Geografie rätsel bei welchem man Hauptstädte, Flaggen,
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |              |         |                   |
 | ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
+| ...  |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -51,9 +57,17 @@ Unser Programm wird ein Geografie rätsel bei welchem man Hauptstädte, Flaggen,
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |8.12.2022|Shahir & Christian|Startprogramm|1h|
-| 2.A  |8.12.2022|Kamil & Marco|Auswahl|1h|
-| 3.A  |15.12.2022| Kamil & Marco| Erstellt selber fragen| 1h|
+| 1.A  |8.12.2022||Shahir & Christian|Hauptstätte sammeln|20min|
+| 1.B | ----- | --------- | Eingabebox erstellen und eine Datei mit richtigen Antworten erstellen | 45min |
+| 1.C | ----- | --------- | Eingabe von User mit Eingabebox vergleichen | 45min |
+| 2.A | ----- | --------- |Umrisse Sammeln |20min|
+| 2.B | ----- | --------- | Eingabebox erstellen und eine Datei mit richtigen Antworten erstellen| ------------- |
+| 2.C | ----- | --------- | Eingabe von User mit Eingabebox vergleichen | 45min  |
+| ---- | ----- | --------- | ------------ | ------------- |
+| ---- | ----- | --------- | ------------ | ------------- |
+
+| 2.A  |8.12.2022|Kamil |Auswahl|1h|
+| 3.A  |15.12.2022| Kamil | Erstellt selber fragen| 1h|
 | 4.A  |15.12.2022| Christian & Shahir| Auswahl der einzelnen Quizes | 1h | 
 
 Total: 

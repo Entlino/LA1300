@@ -6,8 +6,8 @@ Waffel - Aeschlimann, Bielski, Bürgi, Bashiri
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
+|       | 0.0.1   | Winforms ausprobieren und Bilder herunterladen |
+|       | 0.0.2    |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -24,11 +24,11 @@ Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, s
 | 2  |                 |Funktional| Als ein Benutzer möchte ich das man die Länder an ihrem Umriss erraten kann |
 | 3  |                 |Funktional| Als ein Benutzer möchte ich das man die Flaggen den jeweiligen Ländern zuordnen kann |
 | 4  |                 |Funktional| Als ein Beuntzer möchte ich das man zwischen den einzelen Rätsel auswählen kann |
-| 5  |                 |      |Als ein benutzer möchte ich, dass man meinen Highscore von Antworten ohne Fehler sehen kann, damit ich mich mit anderen Benutzer Vergleichen kann.|
-| 6  |                 |      |Als ein Benutzer möchte ich, dass ich ein Timer sehe, damit ich weiss wieviel Zeit ich für die Fragen gebraucht habe|
-| 7  |                 |      |Als ein Benutzer möchte ich mehrere Schwierigkeitsmodi haben, damit damit ich ein besseres Spiel-Ecperience habe|
-| 8  |                 |      |                                    |
-| 9  |                 |      |                                    |
+| 5  |                 |   "   |Als ein benutzer möchte ich, dass man meinen Highscore von Antworten ohne Fehler sehen kann, damit ich mich mit anderen Benutzer Vergleichen kann.|
+| 6  |                 |   "   |Als ein Benutzer möchte ich, dass ich ein Timer sehe, damit ich weiss wieviel Zeit ich für die Fragen gebraucht habe|
+| 7  |                 |      |Als ein Benutzer möchte ich, dass ich mehrere Schwierigkeitsmodi haben, damit damit ich ein besseres Spiel-Ecperience habe|
+| 8  |                 |      | Als ein Benutzer möchte ich, dass ich eine enter Taste habe, damit ich selber auswählen kann wann ich antworte |
+| 9  |                 |      |  Als ein Benutzer möchte ich, dass ich                                  |
 | 10  |                 |      |                                    |
 
 
@@ -38,12 +38,16 @@ Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, s
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |Programm gestartet, man kann zwischen die Modi auswählen|  Hauptstadt Modus anklicken    |   Hauptstadt Modus gestartet                |
+| 2.1  |Programm gestartet, man kann zwischen die Modi auswählen|  Umriss Modus anklicken      |Umrisss modus gestartet|
+| 3.1  |Programm gestartet, man kann zwischen die Modi auswählen|Flaggen Modus anklicken |Flaggen Modus gestartet|
+| 4.1  |Programm gestartet|-|Auswahl zwischen den Modi|
+| 5.1  |Modus gestartet|richtige Antwort|Highscore= +1|
+| 6.1  |Ein Modus ausgewählt und geatrtet|richtige antworte|Timer zählt den Zeit|   
+| 7.1  | Modus auswählen | Schwierigkeitsstufe 1       |     Schwierigkeitsstufe 1              |
+| 8.1  |Modus ausgewählt, Antwort eingegeben|         Button enter wird angeklickt|    nächste Frage   |
+| 9.1  |              |         |                   |
+| 10.1 |              |         |                   |
 | ...  |              |         |                   |
 | ...  |              |         |                   |
 
@@ -63,7 +67,7 @@ Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, s
 | 2.A | ----- | --------- |Umrisse Sammeln |20min|
 | 2.B | ----- | --------- | Eingabebox erstellen und eine Datei mit richtigen Antworten erstellen| ------------- |
 | 2.C | ----- | --------- | Eingabe von User mit Eingabebox vergleichen | 45min  |
-| ---- | ----- | --------- | ------------ | ------------- |
+| 4.A | 15.12.2022 | --------- | Auswahl der einzelnen Quizes | 45min |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 2.A  |8.12.2022|Kamil |Auswahl|1h| 
 | 3.A  |15.12.2022| Kamil | Erstellt selber fragen| 1h|

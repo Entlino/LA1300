@@ -2,7 +2,7 @@
 
 
 
-Waffel - Aeschlimann, Bielski, Bürgi, Bashiri
+Waffel - Aeschlimann, Bielski, Bashiri
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |

@@ -56,6 +56,7 @@ Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, s
 ### 1.4 Diagramme
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![Pap](https://i.imgur.com/Dmpsvss.png)
 
 ## 2 Planen
 

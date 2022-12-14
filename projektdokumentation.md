@@ -6,9 +6,9 @@ Waffel - Aeschlimann, Bielski, Bashiri
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Winforms ausprobieren und Bilder herunterladen |
-|       | 0.0.2    |                                                              |
-|       | 1.0.0   |                                                              |
+|1.12| 0.0.1   | Winforms ausprobieren und Bilder herunterladen |
+|8.12| 0.0.2    | Projektdokumentation überarbeitet, Unterprogramme aufgeteilt |
+|15.12| 1.0.0   |                                                              |
 
 ## 1 Informieren
 
@@ -20,19 +20,14 @@ Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, s
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1  |                 |Funktional| Als ein Benutzer möchte ich das man die Hauptstädte der einzelnen Länder erraten kann |
-| 2  |                 |Funktional| Als ein Benutzer möchte ich das man die Länder an ihrem Umriss erraten kann |
-| 3  |                 |Funktional| Als ein Benutzer möchte ich das man die Flaggen den jeweiligen Ländern zuordnen kann |
-| 4  |                 |Funktional| Als ein Beuntzer möchte ich das man zwischen den einzelen Rätsel auswählen kann |
-| 5  |                 |   "   |Als ein benutzer möchte ich, dass man meinen Highscore von Antworten ohne Fehler sehen kann, damit ich mich mit anderen Benutzer Vergleichen kann.|
-| 6  |                 |   "   |Als ein Benutzer möchte ich, dass ich ein Timer sehe, damit ich weiss wieviel Zeit ich für die Fragen gebraucht habe|
-| 7  |                 |      |Als ein Benutzer möchte ich, dass ich mehrere Schwierigkeitsmodi haben, damit damit ich ein besseres Spiel-Ecperience habe|
-| 8  |                 |      | Als ein Benutzer möchte ich, dass ich eine enter Taste habe, damit ich selber auswählen kann wann ich antworte |
-| 9  |                 |      |  Als ein Benutzer möchte ich, dass ich                                  |
-| 10  |                 |      |                                    |
-
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+| 1  |Muss|NF| Als ein Benutzer möchte ich das man die Hauptstädte der einzelnen Länder erraten kann |
+| 2  |Muss|NF| Als ein Benutzer möchte ich das man die Länder an ihrem Umriss erraten kann |
+| 3  |Muss|NF| Als ein Benutzer möchte ich das man die Flaggen den jeweiligen Ländern zuordnen kann |
+| 4  |Muss|NF| Als ein Beuntzer möchte ich das man zwischen den einzelen Rätsel auswählen kann |
+| 5  |Kann|F|Als ein benutzer möchte ich, dass man meinen Highscore von Antworten ohne Fehler sehen kann, damit ich mich mit anderen Benutzer Vergleichen kann.|
+| 6  |Kann|F|Als ein Benutzer möchte ich, dass ich ein Timer sehe, damit ich weiss wieviel Zeit ich für die Fragen gebraucht habe|
+| 7  |Kann|F|Als ein Benutzer möchte ich, dass ich mehrere Schwierigkeitsmodi haben, damit damit ich ein besseres Spiel-Ecperience habe|
+| 8  |Kann|F| Als ein Benutzer möchte ich, dass ich eine enter Taste habe, damit ich selber auswählen kann wann ich antworte |
 
 ### 1.3 Testfälle
 
@@ -41,17 +36,11 @@ Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, s
 | 1.1  |Programm gestartet, man kann zwischen die Modi auswählen|  Hauptstadt Modus anklicken    |   Hauptstadt Modus gestartet                |
 | 2.1  |Programm gestartet, man kann zwischen die Modi auswählen|  Umriss Modus anklicken      |Umrisss modus gestartet|
 | 3.1  |Programm gestartet, man kann zwischen die Modi auswählen|Flaggen Modus anklicken |Flaggen Modus gestartet|
-| 4.1  |Programm gestartet|-|Auswahl zwischen den Modi|
+| 4.1  |Programm gestartet|-|Auswahl zwischen den Modi| Auswahl ist anklickbar |
 | 5.1  |Modus gestartet|richtige Antwort|Highscore= +1|
-| 6.1  |Ein Modus ausgewählt und geatrtet|richtige antworte|Timer zählt den Zeit|   
+| 6.1  |Ein Modus ausgewählt und geatrtet|richtige antworte|Timer zählt die Zeit|   
 | 7.1  | Modus auswählen | Schwierigkeitsstufe 1       |     Schwierigkeitsstufe 1              |
 | 8.1  |Modus ausgewählt, Antwort eingegeben|         Button enter wird angeklickt|    nächste Frage   |
-| 9.1  |              |         |                   |
-| 10.1 |              |         |                   |
-| ...  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -62,26 +51,24 @@ Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, s
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |8.12.2022||Shahir & Christian|Hauptstätte sammeln|20min|
-| 1.B | ----- | --------- | Eingabebox erstellen und eine Datei mit richtigen Antworten erstellen | 45min |
-| 1.C | ----- | --------- | Eingabe von User mit Eingabebox vergleichen | 45min |
-| 2.A | ----- | --------- |Umrisse Sammeln |20min|
-| 2.B | ----- | --------- | Eingabebox erstellen und eine Datei mit richtigen Antworten erstellen| ------------- |
-| 2.C | ----- | --------- | Eingabe von User mit Eingabebox vergleichen | 45min  |
-| 4.A | 15.12.2022 | --------- | Auswahl der einzelnen Quizes | 45min |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 2.A  |8.12.2022|Kamil |Auswahl|1h| 
-| 3.A  |15.12.2022| Kamil | Erstellt selber fragen| 1h|
-| 4.A  |15.12.2022| Christian & Shahir| Auswahl der einzelnen Quizes | 1h | 
-die drei unteren paketen werden umgeschrieben
+| 1 | 01.12 | Alle | WinForms kennenlernen | 45min |
+| 2 | 01.12 | Shahir | Flaggen raussuchen | 30min |
+| 3 | 01.12 | Christian | Länderliste erstellen | 30min |
+| 4 | 01.12 | Kamil | Länderumriss raussuchen | 30min |
+| 5 | 08.12 | Christian | Flaggenquiz starten | 120min |
+| 6 | 08.12 | Shahir | Hauptstädte starten | 120min |
+| 7 | 08.12 | Kamil | Kontinente starten | 120min |
+| 8 | 08.12 | Christian | Quiz auswahl | 45min |
+| 9 | 08.12 | Shahir | Timer | 45min |
+| 10 | 08.12 | Kamil | Leaderbord | 45min |
+| 11 | 15.12 | Christian | Flaggenquiz fertig | 120min |
+| 12 | 15.12 | Shahir | Hauptstädte fertig | 120min |
+| 13 | 15.12 | Kamil | Kontinente fertig | 120min |
+| 14 | 15.12 | Kamil | Vortrag | 120min |
+| 15 | 22.12 | Christian | Programm feinschliff | 45min |
+| 16 | 22.12 | Shahir | Programm testen | 45min |
+| 17 | 22.12 | Alle | Lernbericht | 180min |
 
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
-## 3 Entscheiden
 
 Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt eins ausgibig zu Programmieren da man mehere besser in der Gruppe aufteilen kann.
 
@@ -89,8 +76,24 @@ Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt ei
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  |01.12|Alle|45min|120min|
+| 2.A  |01.12|Shahir|30min|20min|
+| 3.A  |01.12|Christian|30min|20min|
+| 4.A  |01.12|Kamil|30min|20min|
+| 5.A  |08.12|Christian|120min|180min|
+| 6.A  |08.12|Shahir|120min|180min|
+| 7.A  |08.12|Kamil|120min|180min|
+| 8.A  |08.12|Christian|45min|30min|
+| 9.A  |08.12|Shahir|45min|30min|
+| 10.A  |08.12|Kamil|45min|30min|
+| 11.A  |15.12|Christian|120min|100min|
+| 12.A  |15.12|Shahir|120min|100min|
+| 13.A  |15.12|Kamil|120min|100min|
+| 14.A  |15.12|Kamil|120min|120min|
+| 15.A  |22.12|Christian|45min|----|
+| 16.A  |22.12|Shahir|45min|----|
+| 17.A  |22.12|Alle|180min|----|
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 

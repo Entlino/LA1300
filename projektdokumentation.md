@@ -44,7 +44,7 @@ Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, s
 
 ### 1.4 Diagramme
 
-
+✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
 ![Pap](https://i.imgur.com/Dmpsvss.png)
 
 ## 2 Planen
@@ -86,9 +86,9 @@ Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt ei
 | 8.A  |08.12|Christian|45min|30min|
 | 9.A  |08.12|Shahir|45min|30min|
 | 10.A  |08.12|Kamil|45min|30min|
-| 11.A  |15.12|Christian|120min|100min|
+| 11.A  |15.12|Christian|120min|----|
 | 12.A  |15.12|Shahir|120min|100min|
-| 13.A  |15.12|Kamil|120min|100min|
+| 13.A  |15.12|Kamil|120min|----|
 | 14.A  |15.12|Kamil|120min|120min|
 | 15.A  |22.12|Christian|45min|----|
 | 16.A  |22.12|Shahir|45min|----|
@@ -107,8 +107,6 @@ Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt ei
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-
 
 ## 6 Auswerten
 

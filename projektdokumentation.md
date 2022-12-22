@@ -38,7 +38,7 @@ Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, s
 | 3.1  |Programm gestartet, man kann zwischen die Modi auswählen|Flaggen Modus anklicken |Flaggen Modus gestartet|
 | 4.1  |Programm gestartet|-|Auswahl zwischen den Modi| Auswahl ist anklickbar |
 | 5.1  |Modus gestartet|richtige Antwort|Highscore= +1|
-| 6.1  |Ein Modus ausgewählt und geatrtet|richtige antworte|Timer zählt die Zeit|   
+| 6.1  |Ein Modus ausgewählt und gesatrtet|richtige antworte|Timer zählt die Zeit|   
 | 7.1  | Modus auswählen | Schwierigkeitsstufe 1       |     Schwierigkeitsstufe 1              |
 | 8.1  |Modus ausgewählt, Antwort eingegeben|         Button enter wird angeklickt|    nächste Frage   |
 

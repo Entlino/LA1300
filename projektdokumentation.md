@@ -8,7 +8,7 @@ Waffel - Aeschlimann, Bielski, Bashiri
 | ----- | ------- | ------------------------------------------------------------ |
 |1.12| 0.0.1   | Winforms ausprobieren und Bilder herunterladen |
 |8.12| 0.0.2    | Projektdokumentation überarbeitet, Unterprogramme aufgeteilt |
-|15.12| 1.0.0   |                                                              |
+|15.12| 1.0.0   |Teilprogramm fertiggestellt|
 
 ## 1 Informieren
 

@@ -108,7 +108,7 @@ Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt ei
 | 5.1  |22.12|Positiv|Christian|
 | 6.1  |22.12|Negativ|Christian|
 | 7.1  |22.12|Negativ|Christian|
-| 8.1  |22.12|Negativ|Christian|
+| 8.1  |22.12|Positiv|Christian|
 
 
 Nach einen ein bisschen holpriger Start in das Projekt durch das verlassen der Schule eines underen Gruppenmitglied gerieten wir in rückstand, als wir uns dann noch übernommen haben was die Arbeit angeht, würde ich sagen ist es trotzdem eub gutes Endergebnis obwohl wir nicht alles geschafft haben was geplant war. Das nächste mal müssen wir definitiv schauen das wir die Komunikation besser hinbekommen damit alles strukturierter ist.

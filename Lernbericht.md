@@ -58,12 +58,6 @@ button1.Text = correctAnswer;
 
 Dieser Teil des Codes gibt den Schaltflächen die Funktion, die Antworten zu überprüfen und zu korrigieren.
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
-
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 

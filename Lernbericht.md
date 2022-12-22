@@ -21,6 +21,7 @@ Wichtigste war die Programmierung der Knöpfe, die auf unsere Klicks reagieren. 
 Schritt darin, die Klicks auf die Schaltfläche zu programmieren, um die vom Benutzer gegebene Antwort zu korrigieren.
 
 ![image](https://user-images.githubusercontent.com/111045708/209092384-5d58bdca-0a9b-417f-97a6-1b3311c6ef0b.png)
+![gif](https://im.ezgif.com/tmp/ezgif-1-cd02063928.gif)
 Hier sieht man, dass ich auf die falsche Antwort geklickt habe und das Programm hat das erkannt und mir gesagt, dass ich die falsche Antwort bekommen habe.
 
 

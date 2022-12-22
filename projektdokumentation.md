@@ -95,8 +95,6 @@ Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt ei
 | 17.A  |22.12|Alle|180min|----|
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
-
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
@@ -106,8 +104,8 @@ Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt ei
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Nach einen ein bisschen holpriger Start in das Projekt durch das verlassen der Schule eines underen Gruppenmitglied gerieten wir in rückstand, als wir uns dann noch übernommen haben was die Arbeit angeht, würde ich sagen ist es trotzdem eub gutes Endergebnis obwohl wir nicht alles geschafft haben was geplant war. Das nächste mal müssen wir definitiv schauen das wir die Komunikation besser hinbekommen damit alles strukturierter ist.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+

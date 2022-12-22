@@ -65,10 +65,9 @@ Wir haben gelernt, wie man eine Benutzeroberfläche in Winforms erstellt. Das Wi
 
 # Reflexion zum Arbeitsprozess
 
-Ein Teil des Programms funktioniert und läuft einwandfrei
+Ein Teil des Programms funktioniert und läuft einwandfrei.
 
-Nicht alles was wir geplant haben konnten wir so umsetzten.
-
+Wir konnten nicht alle Funktionen implementieren, die wir wollten, hauptsächlich aufgrund von Unerfahrenheit.
 
 **VBV**: 
 Aufgabenaufteilung besser besprechen und bessere Komunikation während dem Arbeiten.

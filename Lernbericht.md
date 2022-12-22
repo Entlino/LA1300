@@ -1,5 +1,5 @@
 # Lern-Bericht
-Gruppe - Waffel
+Gruppe - Waffle
 Kamil Bielski, Christian Aeschlimann, Mohammad Shahir Bashiri
 
 ## Einleitung

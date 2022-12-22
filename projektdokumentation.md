@@ -38,7 +38,7 @@ Unser Programm wird ein Geographie Quiz bei welchem man Hauptstädte, Flaggen, s
 | 3.1  |Programm gestartet, man kann zwischen die Modi auswählen|Flaggen Modus anklicken |Flaggen Modus gestartet|
 | 4.1  |Programm gestartet|-|Auswahl zwischen den Modi| Auswahl ist anklickbar |
 | 5.1  |Modus gestartet|richtige Antwort|Highscore= +1|
-| 6.1  |Ein Modus ausgewählt und gesatrtet|richtige antworte|Timer zählt die Zeit|   
+| 6.1  |Ein Modus ausgewählt und gestartet|richtige antworte|Timer zählt die Zeit|   
 | 7.1  | Modus auswählen | Schwierigkeitsstufe 1       |     Schwierigkeitsstufe 1              |
 | 8.1  |Modus ausgewählt, Antwort eingegeben|         Button enter wird angeklickt|    nächste Frage   |
 
@@ -101,8 +101,15 @@ Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt ei
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |22.12| Negativ|Christian|
+| 2.1  |22.12|Negativ|Christian|
+| 3.1  |22.12|Negativ|Christian|
+| 4.1  |22.12|Negativ|Christian|
+| 5.1  |22.12|Positiv|Christian|
+| 6.1  |22.12|Negativ|Christian|
+| 7.1  |22.12|Negativ|Christian|
+| 8.1  |22.12|Negativ|Christian|
+
 
 Nach einen ein bisschen holpriger Start in das Projekt durch das verlassen der Schule eines underen Gruppenmitglied gerieten wir in rückstand, als wir uns dann noch übernommen haben was die Arbeit angeht, würde ich sagen ist es trotzdem eub gutes Endergebnis obwohl wir nicht alles geschafft haben was geplant war. Das nächste mal müssen wir definitiv schauen das wir die Komunikation besser hinbekommen damit alles strukturierter ist.
 

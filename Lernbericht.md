@@ -70,4 +70,4 @@ Ein Teil des Programms funktioniert und läuft einwandfrei.
 Wir konnten nicht alle Funktionen implementieren, die wir wollten, hauptsächlich aufgrund von Unerfahrenheit.
 
 **VBV**: 
-Aufgabenaufteilung besser besprechen und bessere Komunikation während dem Arbeiten.
+Einige Verbesserungsmöglichkeiten für unser nächstes Projekt bestehen darin, die Aufgabenteilung besser zu besprechen und während der Arbeit besser zu kommunizieren. Was noch verbesserungswürdig ist, ist die Selbstüberschätzung mit den Funktionen, die wir implementieren wollen. Eine Möglichkeit, dies zu beheben, könnte darin bestehen, am Anfang mehr zu recherchieren, um herauszufinden, was wir programmieren können und was nicht.

@@ -56,7 +56,7 @@ button1.Text = correctAnswer;
             button4.Text = answers[3];
 ```
 
-Dieser Teil des Codes gibt den Schaltflächen die Funktion, die Antworten zu überprüfen und zu korrigieren.
+Dieser Teil des Codes gibt den Knöpfen die Funktion, die Antworten zu überprüfen und zu korrigieren.
 
 
 ## Verifikation

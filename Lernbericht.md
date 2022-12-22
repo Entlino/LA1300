@@ -24,19 +24,55 @@ Schritt darin, die Klicks auf die Schaltfläche zu programmieren, um die vom Ben
 
 Hier sieht man, dass ich auf die falsche Antwort geklickt habe und das Programm hat das erkannt und mir gesagt, dass ich die falsche Antwort bekommen habe.
 
-![gif](https://im.ezgif.com/tmp/ezgif-1-cd02063928.gif)
+```
+button1.Text = correctAnswer;
+            button2.Text = "Incorrect Answer 1";
+            button3.Text = "Incorrect Answer 2";
+            button4.Text = "Incorrect Answer 3";
 
-Auf dem gif sieht man wie es für den Benutzer aussieht wenn er auf den Button klickt und danach ein Bild geladen wird.
+            currentCountry = "";
+            correctAnswer = "";
+            currentCountry = countries.Keys.ElementAt(rng.Next(countries.Count));
 
+            correctAnswer = countries[currentCountry];
+
+            lblQuestion.Text = "Was ist die Hauptstadt von " + currentCountry + "?";
+
+            List<string> answers = new List<string>() { correctAnswer };
+            while (answers.Count < 4)
+            {
+                string incorrectAnswer = countries.Values.ElementAt(rng.Next(countries.Count));
+                if (!answers.Contains(incorrectAnswer))
+                {
+                    answers.Add(incorrectAnswer);
+                }
+            }
+
+            answers = answers.OrderBy(x => rng.Next()).ToList();
+
+            button1.Text = answers[0];
+            button2.Text = answers[1];
+            button3.Text = answers[2];
+            button4.Text = answers[3];
+```
+
+Dieser Teil des Codes gibt den Schaltflächen die Funktion, die Antworten zu überprüfen und zu korrigieren.
+
+✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+
+* Eine textliche Beschreibung
+* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
+* Ein gut dokumentierter Code-Fetzen
+* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
-Die Medien zeigen was wir Hauptsächlich gelernt haben und zwar die Arbeit mit Buttons über welche man verschiedene Funktionen erfüllen kann.
+✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+
 # Reflexion zum Arbeitsprozess
 
-Ein Teil des Programms funktioniert und läuft einwandfrei
+👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
 
-Nicht alles was wir geplant haben konnten wir so umsetzten.
+👎 und etwas, was nicht gut lief.
 
-**VBV**: 
-Aufgabenaufteilung besser besprechen und bessere Komunikation während dem Arbeiten.
+**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.

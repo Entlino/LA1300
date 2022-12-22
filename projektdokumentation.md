@@ -9,7 +9,8 @@ Waffle - Aeschlimann, Bielski, Bashiri
 |1.12| 0.0.1   | Winforms ausprobieren und Bilder herunterladen |
 |8.12| 0.0.2    | Projektdokumentation überarbeitet, Unterprogramme aufgeteilt |
 |15.12| 1.0.0   |Teilprogramm fertiggestellt|
-
+|22.12| 2.0.0   |Programme kontrolliert|
+|22.12| 2.0.1   |Lernbericht gemacht|
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt

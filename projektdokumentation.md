@@ -90,8 +90,8 @@ Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt ei
 | 12.A  |15.12|Shahir|120min|100min|
 | 13.A  |15.12|Kamil|120min|----|
 | 14.A  |15.12|Kamil|120min|120min|
-| 15.A  |22.12|Christian|45min|----|
-| 16.A  |22.12|Shahir|45min|----|
+| 15.A  |22.12|Christian|45min|45min|
+| 16.A  |22.12|Shahir|45min|40min|
 | 17.A  |22.12|Alle|180min|150min|
 
 

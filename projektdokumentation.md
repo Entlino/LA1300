@@ -83,9 +83,9 @@ Wir haben und dazu entschieden mehere verschiedene Rätsel zu machen antstatt ei
 | 5.A  |08.12|Christian|120min|180min|
 | 6.A  |08.12|Shahir|120min|180min|
 | 7.A  |08.12|Kamil|120min|180min|
-| 8.A  |08.12|Christian|45min|30min|
-| 9.A  |08.12|Shahir|45min|30min|
-| 10.A  |08.12|Kamil|45min|30min|
+| 8.A  |08.12|Christian|45min|----|
+| 9.A  |08.12|Shahir|45min|----|
+| 10.A  |08.12|Kamil|45min|----|
 | 11.A  |15.12|Christian|120min|----|
 | 12.A  |15.12|Shahir|120min|100min|
 | 13.A  |15.12|Kamil|120min|----|

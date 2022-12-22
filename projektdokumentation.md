@@ -115,4 +115,4 @@ Nach einen ein bisschen holpriger Start in das Projekt durch das verlassen der S
 
 ## 6 Auswerten
 
-
+[Link zum Lernbericht](https://github.com/Entlino/LA1300/blob/main/Lernbericht.md)

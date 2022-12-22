@@ -61,12 +61,14 @@ Dieser Teil des Codes gibt den Knöpfen die Funktion, die Antworten zu überprü
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Die Medien zeigen was wir Hauptsächlich gelernt haben und zwar die Arbeit mit Buttons über welche man verschiedene Funktionen erfüllen kann.
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Ein Teil des Programms funktioniert und läuft einwandfrei
 
-👎 und etwas, was nicht gut lief.
+Nicht alles was wir geplant haben konnten wir so umsetzten.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+
+**VBV**: 
+Aufgabenaufteilung besser besprechen und bessere Komunikation während dem Arbeiten.

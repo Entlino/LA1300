@@ -61,7 +61,7 @@ Dieser Teil des Codes gibt den Knöpfen die Funktion, die Antworten zu überprü
 
 ## Verifikation
 
-Die Medien zeigen was wir Hauptsächlich gelernt haben und zwar die Arbeit mit Buttons über welche man verschiedene Funktionen erfüllen kann.
+Wir haben gelernt, wie man eine Benutzeroberfläche in Winforms erstellt. Das Wichtigste, was wir für unsere Programme gelernt haben, waren die Knöpfe und ihre Funktionen nach dem Anklicken.
 
 # Reflexion zum Arbeitsprozess
 
